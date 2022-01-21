@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-01-21T06:53:26.968Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="yfY5fzaqmefx8NCv66M1" version="16.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-21T07:02:59.095Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="DidA2uho5PuCf9Q_80F4" version="16.4.3" type="github">
   <diagram id="N8rH8w9E1a5wZd2GxYFY" name="Page-1">
     <mxGraphModel dx="1038" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="sJk5Bp738-dkXcP7nJRi-1" value="&lt;span&gt;Pizza&lt;/span&gt;&lt;br&gt;-----------------------------&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="110" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="105" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sJk5Bp738-dkXcP7nJRi-2" value="&lt;span&gt;PizzaStore&lt;/span&gt;&lt;br&gt;-----------------------------" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="600" y="90" width="120" height="60" as="geometry" />
@@ -14,25 +14,25 @@
           <mxGeometry x="490" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sJk5Bp738-dkXcP7nJRi-4" value="NYStyleCheesePizza&lt;br&gt;-----------------------------" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="30" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="25" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sJk5Bp738-dkXcP7nJRi-5" value="NYStylePepperoniPizza&lt;br&gt;-----------------------------" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="50" y="270" width="140" height="60" as="geometry" />
+          <mxGeometry x="45" y="280" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sJk5Bp738-dkXcP7nJRi-7" value="NYStyleClamPizza&lt;br&gt;-----------------------------" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="90" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="85" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sJk5Bp738-dkXcP7nJRi-8" value="NYStyleVeggiePizza&lt;br&gt;-----------------------------" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="130" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="125" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sJk5Bp738-dkXcP7nJRi-9" value="ChicagoStyleCheesePizza&lt;br&gt;-----------------------------" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="220" y="230" width="150" height="60" as="geometry" />
+          <mxGeometry x="215" y="240" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sJk5Bp738-dkXcP7nJRi-10" value="ChicagoStylePepperoniPizza&lt;br&gt;-----------------------------" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="240" y="270" width="170" height="60" as="geometry" />
+          <mxGeometry x="235" y="280" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sJk5Bp738-dkXcP7nJRi-11" value="ChicagoStyleClamPizza&lt;br&gt;-----------------------------" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="280" y="310" width="150" height="60" as="geometry" />
+          <mxGeometry x="275" y="320" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sJk5Bp738-dkXcP7nJRi-12" value="ChicagoStyleVeggiePizza&lt;br&gt;-----------------------------" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="320" y="350" width="150" height="60" as="geometry" />
@@ -42,14 +42,14 @@
         </mxCell>
         <mxCell id="sJk5Bp738-dkXcP7nJRi-14" value="" style="endArrow=block;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.34;entryY=1.057;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="1" target="sJk5Bp738-dkXcP7nJRi-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="90" y="230" as="sourcePoint" />
-            <mxPoint x="140" y="180" as="targetPoint" />
+            <mxPoint x="85" y="240" as="sourcePoint" />
+            <mxPoint x="135" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sJk5Bp738-dkXcP7nJRi-15" value="" style="endArrow=block;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.66;entryY=1.043;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.344;exitY=-0.077;exitDx=0;exitDy=0;exitPerimeter=0;endFill=0;" edge="1" parent="1" source="sJk5Bp738-dkXcP7nJRi-9" target="sJk5Bp738-dkXcP7nJRi-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="230" y="210" as="sourcePoint" />
-            <mxPoint x="280" y="160" as="targetPoint" />
+            <mxPoint x="225" y="220" as="sourcePoint" />
+            <mxPoint x="275" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sJk5Bp738-dkXcP7nJRi-16" value="" style="endArrow=block;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.56;exitY=-0.01;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.407;entryY=1.07;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="1" source="sJk5Bp738-dkXcP7nJRi-3" target="sJk5Bp738-dkXcP7nJRi-2">
@@ -63,6 +63,38 @@
             <mxPoint x="680" y="220" as="sourcePoint" />
             <mxPoint x="730" y="170" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="sJk5Bp738-dkXcP7nJRi-19" value="" style="curved=1;endArrow=classic;html=1;rounded=0;startArrow=classic;startFill=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.615;exitY=1.03;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="sJk5Bp738-dkXcP7nJRi-8" target="sJk5Bp738-dkXcP7nJRi-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="420" as="sourcePoint" />
+            <mxPoint x="570" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="340" y="520" />
+              <mxPoint x="570" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sJk5Bp738-dkXcP7nJRi-20" value="" style="curved=1;endArrow=classic;html=1;rounded=0;startArrow=classic;startFill=1;entryX=0.61;entryY=1.097;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.632;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="sJk5Bp738-dkXcP7nJRi-12" target="sJk5Bp738-dkXcP7nJRi-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="425" y="420" as="sourcePoint" />
+            <mxPoint x="765" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="535" y="510" />
+              <mxPoint x="765" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sJk5Bp738-dkXcP7nJRi-21" value="NYPizzaStore đóng gói tất cả &lt;br&gt;các công thức&amp;nbsp;để làm một chiếc &lt;br&gt;pizza kiểu NY" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="235" y="515" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sJk5Bp738-dkXcP7nJRi-22" value="ChicagoPizzaStore đóng gói tất cả &lt;br&gt;các công thức&amp;nbsp;để làm một chiếc &lt;br&gt;pizza kiểu Chicago" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="590" y="500" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sJk5Bp738-dkXcP7nJRi-24" value="Product Class" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="60" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sJk5Bp738-dkXcP7nJRi-25" value="CreatorClass&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="615" y="50" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
