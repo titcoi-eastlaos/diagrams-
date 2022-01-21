@@ -1,19 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2022-01-21T06:21:40.953Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="peT17gKNl1rZSwlilDC5" version="16.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-21T08:25:18.002Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="mhB-Afh6lq1sx2DO1_y5" version="16.4.3" type="github">
   <diagram id="VK9zWSJOl_B0jZRCMWZ7" name="Page-1">
-    <mxGraphModel dx="1038" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="593" dy="329" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="j1VUIYVnK4Af_nBj4v42-1" value="&lt;div&gt;&lt;b&gt;Product&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;-----------------------------&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="240" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j1VUIYVnK4Af_nBj4v42-2" value="&lt;b&gt;Creator&lt;/b&gt;&lt;br&gt;-----------------------------" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="j1VUIYVnK4Af_nBj4v42-2" value="&lt;b&gt;Creator&lt;/b&gt;&lt;br&gt;-----------------------------&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;factoryMethod()&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;anOperation()&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j1VUIYVnK4Af_nBj4v42-3" value="&lt;b&gt;ConcreteProduct&lt;br&gt;&lt;/b&gt;-----------------------------" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="290" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="j1VUIYVnK4Af_nBj4v42-4" value="&lt;b&gt;ConcreteCreator&lt;/b&gt;&lt;br&gt;-----------------------------" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="j1VUIYVnK4Af_nBj4v42-4" value="&lt;b&gt;ConcreteCreator&lt;/b&gt;&lt;br&gt;-----------------------------&lt;br&gt;factoryMethod()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="290" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="j1VUIYVnK4Af_nBj4v42-5" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="j1VUIYVnK4Af_nBj4v42-3" target="j1VUIYVnK4Af_nBj4v42-4">
